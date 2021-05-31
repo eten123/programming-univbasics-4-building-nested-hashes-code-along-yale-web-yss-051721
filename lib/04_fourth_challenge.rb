@@ -6,16 +6,16 @@ def fourth_challenge
       :hero => {name: "Romeo", age: "15", status: "alive"},
       :hero_friends => alive
         #your hashes here!
-      ]
-   }, 
+   }
+   , 
    :capulet => {
       :patriarch => {name: "Lord Capulet", age: "50"},
       :matriarch => {name: "Lady Capulet", age: "51"},
       :heroine => {name: "Juliet", age: "15", status: "alive"},
       :heroine_friends => alive
         #your hashes here!
-      ]
    }
+   
 }
 
   
