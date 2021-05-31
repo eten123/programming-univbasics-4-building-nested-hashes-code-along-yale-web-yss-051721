@@ -16,7 +16,7 @@ def third_challenge
     :heroine => {:name => "Juliet",:age => "15", status => "alive"},
     :heroine_friends => 
     {:name => "Steven", :age => "30", :attitude => "confused"},
-    {:name => "Mercutio", :age => "18", :attitude => "hot-headed"},
+    {:name => "Nurse", :age => "44", :attitude => "confused"},
    }
   }
 end
